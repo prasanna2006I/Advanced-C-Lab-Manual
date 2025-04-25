@@ -23,6 +23,9 @@ printf("%d\n",stack[i]);
 
 ```
 Output:
+
+
+
 ![image](https://github.com/user-attachments/assets/35e0cb2d-12bc-4538-935f-6572c77078c5)
 
 
@@ -184,6 +187,9 @@ void dequeue()
 ```
 
 Output:
+
+
+
 ![image](https://github.com/user-attachments/assets/ab8fe371-002f-4431-97eb-65c522300540)
 
 
