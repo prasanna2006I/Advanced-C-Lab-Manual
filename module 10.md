@@ -42,6 +42,9 @@ printf("Item not found\n");
 
 
 Output:
+
+
+
 ![image](https://github.com/user-attachments/assets/fb8f2a30-4538-4987-9f79-98dbe2ba7890)
 
 
@@ -84,6 +87,9 @@ n->data=data; n->next=NULL; temp->next=n;
 ```
 
 Output:
+
+
+
 ![image](https://github.com/user-attachments/assets/dff9de03-4e69-4539-8e52-838acfb7cc48)
 
 
@@ -122,6 +128,9 @@ printf("%d ",temp->data); temp=temp->next;
 ```
 
 Output:
+
+
+
 ![image](https://github.com/user-attachments/assets/04bdd1ab-6562-45b7-b448-54ed232644d2)
 
 
@@ -238,6 +247,9 @@ void delete()
 ```
 
 Output:
+
+
+
 ![image](https://github.com/user-attachments/assets/0a08c00a-8321-482f-8112-89696d3fa1a3)
 
 
