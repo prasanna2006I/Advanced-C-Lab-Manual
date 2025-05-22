@@ -162,7 +162,9 @@ Program:
 
 Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/dd61346c-ff97-4c72-a735-c4c8215d9c1f)
+
+
 
 
 Result:
